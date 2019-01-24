@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# toy-app
+>>>>>>> 7fecb0959caa1a5aac1ee5a70cefef3c81ea48a4
